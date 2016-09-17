@@ -7,6 +7,7 @@ The goal is to activate or deactivate intrustion detection by simply use NFC Car
 
 # TODO 
 - Deploy on Pi Zero
-- Add led (off: system off, blinking: system changing state, on: system armed)
+- Add one or two led (off: system off, blinking: system changing state, on: system armed)
 - Use apikey for comunicate with Picam-JS
 - Write documentation
+- Add to switch (arm system, unarm system) (with led to show if user push a button)
